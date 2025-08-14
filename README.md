@@ -1,4 +1,7 @@
 Wersje - Różnice i możliwości:
+Czemu nie może być tu 1 wersja ktora ma ciągle poprawki tylko całe arciwum tych programów musi być tutaj? - Odpowiadam na te pytanie: Każdy plik różni się opcjami i rozmiarem, chce abyś to TY wybrał co chcesz mieć: Sam skaner; Opcje Diagnostyczne; Możliwość Zamawiania Pizzy! :) To ty tu wybierasz, a co lepsze wszystko jest 100% darmowe
+
+Miło będzie jak dasz coś od siebie: https://tipply.pl/@kornodowy
 
 = V 1.0 =
 - Skanowanie (plików systemowych nwm czemu wpisałem rejestru)
