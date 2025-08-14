@@ -195,7 +195,7 @@ echo (c) Kornodowy. Wszelkie prawa zastrzezone.
 echo.
 echo. 
 echo -----------------------------------------------------------
-echo ------------ Skaner systemu operacyjnego v.2.0 ------------
+echo ------------ Skaner systemu operacyjnego v.3.0 ------------
 echo ------------ Autorstwa Kornodowego (kornodowy) ------------
 echo ----------- E-Mail: kontakt.z@kornodowy.hub.pl ------------
 echo ------------------ Github: ItzzKornodowy ------------------
@@ -362,3 +362,4 @@ echo Kliknij dowolny przycisk aby wrocic do ekranu startowego.
 pause >nul
 color 7
 goto menu
+
