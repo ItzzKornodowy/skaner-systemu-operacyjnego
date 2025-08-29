@@ -1,7 +1,7 @@
 Wersje - Różnice i możliwości:
 Czemu nie może być tu 1 wersja ktora ma ciągle poprawki tylko całe arciwum tych programów musi być tutaj? - Odpowiadam na te pytanie: Każdy plik różni się opcjami i rozmiarem, chce abyś to TY wybrał co chcesz mieć: Sam skaner; Opcje Diagnostyczne; Możliwość Zamawiania Pizzy! :) To ty tu wybierasz, a co lepsze wszystko jest 100% darmowe
 
-Do Wersji typu: V 1.2; V 2.1; V 1.6; itp. (Przykładowe wersje) zostały dodane łatki czyli poprostu żadnych nowych funkcji tylko bugfixy :)
+Do Wersji typu: V 1.2; V 2.1; V 1.6; itp. (Przykładowe wersje) zostały dodane łatki albo jakaś nowa funkcja która prawie nic nie zmienia :)
 
 Miło będzie jak dasz coś od siebie: https://tipply.pl/@kornodowy
 
