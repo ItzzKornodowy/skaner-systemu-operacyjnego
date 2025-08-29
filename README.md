@@ -32,4 +32,6 @@ PRZYDATNE KOMENDY I POLECENIA OD 3.0 I POWYŻEJ (DZIAŁAJĄ TYLKO W MENU STARTOW
 - TaskKiller (1.0-ws)
 - Nowe komendy ułatwiające życie (np: appdata; programdata; ukryteelementy.true; ukryteelementy.false) - DZIAŁAJĄ TYLKO W MENU GŁÓWNYM
 - Pewnie jakieś bugi naprawiłem
-  
+
+
+  Powyżej wersji V. 3.1 można konfigurować motywy. (konfiguracja zapisuje się co pozwala na to że nie musisz jej ustawiać przy każdym wejściu)
