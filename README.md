@@ -35,3 +35,12 @@ PRZYDATNE KOMENDY I POLECENIA OD 3.0 I POWYŻEJ (DZIAŁAJĄ TYLKO W MENU STARTOW
 
 
   Powyżej wersji V. 3.1 można konfigurować motywy. (konfiguracja zapisuje się co pozwala na to że nie musisz jej ustawiać przy każdym wejściu)
+
+  = V 4.0 =
+  JezuniuMilan...? 🤫😜
+
+- Mozliwosc instalacji innych wersji programu. (w programie pobierasz z githuba, wiec nie musisz kombinowac inaczej :D)
+- Wbudowany cmd (bo czemu nie?)
+- Mozliwosc dodania programu do autostartu (badz jego usuniecia) bez kombinowania
+- Akcje przy uruchomieniu aplikacji
+
